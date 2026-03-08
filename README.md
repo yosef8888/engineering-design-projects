@@ -9,5 +9,4 @@
 - **Motorcycle Clutch Design** - Spring stress verification
 - **Aircraft Maintenance Monitoring** - Predictive MTBF scheduling
 
-📫 Email: ya186@msstate.edu
 🔗 LinkedIn: linkedin.com/in/youssefahmich/
